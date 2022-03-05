@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/faq-login_ReactJS.git/static/css/main.9b11a720.css",
+    "main.js": "/faq-login_ReactJS.git/static/js/main.66313b52.js",
+    "static/js/787.40f852c6.chunk.js": "/faq-login_ReactJS.git/static/js/787.40f852c6.chunk.js",
+    "index.html": "/faq-login_ReactJS.git/index.html",
+    "main.9b11a720.css.map": "/faq-login_ReactJS.git/static/css/main.9b11a720.css.map",
+    "main.66313b52.js.map": "/faq-login_ReactJS.git/static/js/main.66313b52.js.map",
+    "787.40f852c6.chunk.js.map": "/faq-login_ReactJS.git/static/js/787.40f852c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b11a720.css",
+    "static/js/main.66313b52.js"
+  ]
+}
